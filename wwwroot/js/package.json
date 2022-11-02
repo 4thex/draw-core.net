@@ -1,0 +1,19 @@
+{
+  "name": "js",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "jasmine": "^4.5.0"
+  },
+  "scripts": {
+    "test": "jasmine JASMINE_CONFIG_PATH=jasmine.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
